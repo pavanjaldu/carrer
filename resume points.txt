@@ -1,0 +1,23 @@
+Speciality : Application Architecture ,Application Security, SOA , Web2.0, Technology Strategy, Mobility
+
+Drive the Strategy & Technology Roadmap for all Web2.0 Applications.
+
+Primary responsibility be to provide technical direction in SOA platform and lead the design and implementation of multiple applications for developing presentation and services tier utilizing JAVA technology stack in Unix.
+
+RESPONSIBILITIES :
+Architect, design and development of the commercial banking flagship product and associated software. Expand the scope, scale, performance, and reliability of the product.
+
+Develop in JAVA, Sring, Webservices, EJBs and SQL using Oracle databases, JEE and Hibernate technologies using a RUP development process.
+
+Implement key application enhancements for upcoming releases and provide improvements and fixes to existing application. 
+
+Direct development and delivery of software projects including multi-tier Java application server with relational database powering a web based user interface.
+
+Use judgment, creativity and sound technical knowledge to obtain and recommend solutions.
+Architect and design scalable and high performance platform and application layers.
+
+Deliver multiple software releases for customer demos, betas and product launches, and oversee maintenance of released products.
+
+Interact with multiple levels of personnel, including management, quality assurance, documentation, support, services and product management teams to discuss customer demand, understand customer use cases and requirements, design of features and customer escalations, and assess cost effectiveness.
+
+Coordinating and working with strategic partner/Vendor team members as part of a distributed development team.
